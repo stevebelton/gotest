@@ -6,7 +6,7 @@
       "type": "Microsoft.Storage/storageAccounts",
       "apiVersion": "2021-09-01",
       "name": "abcdabcd0000",
-      "location": "centralus",
+      "location": "westus",
       "sku": {
         "name": "Standard_LRS"
       },
