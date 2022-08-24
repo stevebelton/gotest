@@ -63,7 +63,7 @@
                         }
                     }
                 ],
-                "enableDdosProtection": "[parameters('ddosProtectionPlanEnabled')]"
+                "enableDdosProtection": "false"
             }
         }
     ]
