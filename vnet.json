@@ -14,7 +14,7 @@
         {
             "name": "[parameters('virtualNetworkName')]",
             "type": "Microsoft.Network/VirtualNetworks",
-            "apiVersion": "2021-01-01",
+            "apiVersion": "2021-02-01",
             "location": "[parameters('location')]",
             "dependsOn": [],
             "tags": {},
